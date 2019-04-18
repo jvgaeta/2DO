@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2-Do/TableViewController.swift"
+            timestampString = "478656423.655682"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "tableView(_:cellForRowAtIndexPath:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2-Do/TaskDetailViewController.swift"
+            timestampString = "478474967.851107"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "TaskDetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__Do.TaskDetailViewController.__deallocating_deinit"
+                  moduleName = "2-Do"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jvgaeta/Desktop/A290iOSjvgaeta/ProjectFinal/2-Do/TaskDetailViewController.swift"
+                  timestampString = "478753884.681513"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__Do.TaskDetailViewController.init (__Do.TaskDetailViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; __Do.TaskDetailViewController"
+                  moduleName = "2-Do"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jvgaeta/Desktop/A290iOSjvgaeta/ProjectFinal/2-Do/TaskDetailViewController.swift"
+                  timestampString = "478753884.681697"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__Do.TaskDetailViewController.init (__Do.TaskDetailViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;__Do.TaskDetailViewController&gt;"
+                  moduleName = "2-Do"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jvgaeta/Desktop/A290iOSjvgaeta/ProjectFinal/2-Do/TaskDetailViewController.swift"
+                  timestampString = "478753884.681823"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "35">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2-Do/TableViewController.swift"
+            timestampString = "478656423.655682"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "tableView(_:editActionsForRowAtIndexPath:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2-Do/TableViewController.swift"
+            timestampString = "478656423.655682"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "prepareForSegue(_:sender:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2-Do/TaskModel.swift"
+            timestampString = "478754268.323333"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "TaskModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__Do.TaskModel.tasks.getter : Swift.Dictionary&lt;Swift.Int, __Do.Task&gt;"
+                  moduleName = "2-Do"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jvgaeta/Desktop/A290iOSjvgaeta/Assignment5/2-Do/2-Do/TaskModel.swift"
+                  timestampString = "478653341.362138"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__Do.TaskModel.tasks.setter : Swift.Dictionary&lt;Swift.Int, __Do.Task&gt;"
+                  moduleName = "2-Do"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jvgaeta/Desktop/A290iOSjvgaeta/Assignment5/2-Do/2-Do/TaskModel.swift"
+                  timestampString = "478653341.362343"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__Do.TaskModel.tasks.materializeForSet : Swift.Dictionary&lt;Swift.Int, __Do.Task&gt;"
+                  moduleName = "2-Do"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jvgaeta/Desktop/A290iOSjvgaeta/Assignment5/2-Do/2-Do/TaskModel.swift"
+                  timestampString = "478653341.362533"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__Do.TaskModel.init (__Do.TaskModel.Type)() -&gt; __Do.TaskModel"
+                  moduleName = "2-Do"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jvgaeta/Desktop/A290iOSjvgaeta/Assignment5/2-Do/2-Do/TaskModel.swift"
+                  timestampString = "478653341.362668"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
